@@ -1,7 +1,7 @@
 <template>
   <div class="home-container">
     <div class="contant" />
-    <van-button>你来抓我呀</van-button>
+    <van-button>你来抓我呀2222222222222</van-button>
   </div>
 </template>
 
